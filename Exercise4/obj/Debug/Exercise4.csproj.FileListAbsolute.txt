@@ -1,0 +1,9 @@
+C:\Exercise4\Exercise4\bin\Debug\Exercise4.exe.config
+C:\Exercise4\Exercise4\obj\Debug\Exercise4.csprojResolveAssemblyReference.cache
+C:\Exercise4\Exercise4\obj\Debug\Exercise4.Form1.resources
+C:\Exercise4\Exercise4\obj\Debug\Exercise4.Properties.Resources.resources
+C:\Exercise4\Exercise4\obj\Debug\Exercise4.csproj.GenerateResource.Cache
+C:\Exercise4\Exercise4\bin\Debug\Exercise4.exe
+C:\Exercise4\Exercise4\bin\Debug\Exercise4.pdb
+C:\Exercise4\Exercise4\obj\Debug\Exercise4.exe
+C:\Exercise4\Exercise4\obj\Debug\Exercise4.pdb
